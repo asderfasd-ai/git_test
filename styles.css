@@ -1,9 +1,6 @@
 body {
     background-color: khaki;
 }
-* {
-    outline: 2px slateblue;
-}
 .asd {
     color: red;
 }
@@ -14,4 +11,10 @@ h1{
 
 h3{
     color:orange;
+}
+
+.box-one {
+    background-color: mediumpurple;
+    padding: 20px;
+    border: 20px solid salmon;
 }
